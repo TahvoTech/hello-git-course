@@ -1,0 +1,5 @@
+# Ignore all .in, .out and .pyc files
+
+*.in
+*.out
+*.pyc
